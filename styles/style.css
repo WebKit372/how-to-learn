@@ -25,7 +25,7 @@
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .logo_place_header{
   position: absolute;
-  top:30px; 
+  top:30px;
   left:64px;
 }
 .logo{
@@ -168,7 +168,7 @@
 .text__origin{
   line-height: 1.12;
   font-size: 18px;
-  font-weight: normal;  
+  font-weight: normal;
   margin-top: 20px;
 }
 .feynman{
