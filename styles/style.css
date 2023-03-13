@@ -78,7 +78,7 @@
 }
 .description{
   display: grid;
-  margin: 100px 0;
+  margin: 100px 0 0 0;
 }
 .two-columns{
   display: flex;
@@ -120,6 +120,7 @@
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  margin-bottom: 100px;
 }
 .section-title{
   width: 60%;
@@ -140,6 +141,7 @@
   text-align: center;
 }
 .table{
+  padding: 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
